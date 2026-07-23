@@ -1,5 +1,5 @@
-const bikeSound = new Audio("music/bike.mp3");
-const bgMusic = new Audio("music/music.mp3");
+const bikeSound = new Audio("Music/bike.mp3");
+const bgMusic = new Audio("Music/music.mp3");
 
 bgMusic.loop = true;
 bgMusic.volume = 0.25;
